@@ -1,2 +1,2 @@
- 👋 Hi, I’m @Aniketh2006
+.* 👋 Hi, I’m @Aniketh_Shetty
  👀 I’m interested in coding
