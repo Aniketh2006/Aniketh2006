@@ -113,11 +113,13 @@ class Aniketh:
 
 ---
 
-# 🌟 Gen-Z Dev Quote
+# 🌟 Developer Mindset
 
 ```cpp
-while(!success){
-    tryAgain();
+while(coding){
+    learn();
+    build();
+    repeat();
 }
 ```
 
